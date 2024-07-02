@@ -1,0 +1,20 @@
+{
+  "criteria": {
+      "requirement": {
+          "trigger": "minecraft:using_item",
+          "conditions": {
+              "item": {
+                  "components":{
+                    "minecraft:custom_model_data": 2
+                  },
+                  "predicates": {
+                      "minecraft:custom_data": { "right_click": true }
+                  }
+              }
+          }
+      }
+  },
+  "rewards": {
+      "function": "guns:mp40/mp40_shoot_check"
+  }
+}

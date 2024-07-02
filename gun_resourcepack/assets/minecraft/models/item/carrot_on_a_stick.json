@@ -1,0 +1,13 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "carrot_on_a_stick"
+    
+    },
+
+    "overrides": [
+        { "predicate": {"custom_model_data": 1001},"model": "item/gas_mask"},
+        { "predicate": {"custom_model_data": 1},"model": "item/tie_fighter"},
+        { "predicate": {"custom_model_data": 2},"model": "item/boat"}
+    ]
+}   

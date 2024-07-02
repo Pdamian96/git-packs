@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "recipes:netherite_chestplate_smithing"
+      }
+    }
+  },
+  "rewards": {
+    "function": "recipes:erecipe_netherite_chestplate"
+  }
+}

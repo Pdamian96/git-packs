@@ -1,0 +1,20 @@
+{
+  "criteria": {
+      "requirement": {
+          "trigger": "minecraft:using_item",
+          "conditions": {
+              "item": {
+                  "components":{
+                    "minecraft:custom_model_data": 3
+                  },
+                  "predicates": {
+                      "minecraft:custom_data": { "right_click": true }
+                  }
+              }
+          }
+      }
+  },
+  "rewards": {
+      "function": "guns:remington870/remington870_shoot_check"
+  }
+}

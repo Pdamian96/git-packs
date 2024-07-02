@@ -1,0 +1,17 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stick"
+    
+    },
+
+    "overrides": [
+        { "predicate": {"custom_model_data": 1},"model": "item/blaster_dc_15a"},
+        { "predicate": {"custom_model_data": 2},"model": "item/mp40"},
+        { "predicate": {"custom_model_data": 3},"model": "item/remington870"},
+        { "predicate": {"custom_model_data": 4},"model": "item/deagle"},
+        { "predicate": {"custom_model_data": 5},"model": "item/mp9"}
+
+
+    ]
+}   

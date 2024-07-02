@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "recipes:netherite_helmet_smithing"
+      }
+    }
+  },
+  "rewards": {
+    "function": "recipes:recipe_netherite_helmet"
+  }
+}

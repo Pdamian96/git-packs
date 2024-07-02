@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "inventory": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:stick"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "guns:inventory_changed"
+  }
+}

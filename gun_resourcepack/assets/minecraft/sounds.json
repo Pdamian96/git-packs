@@ -1,0 +1,34 @@
+{
+    "gas_mask": {
+      "sounds": [
+        "custom/gas_mask" ]
+    },
+
+    "dc15a": {
+      "sounds": [
+        "custom/dc15a" ]
+    },
+
+    "mp40": {
+      "sounds": [
+        "custom/mp40" ]
+    },
+    "shotgun_pumping": {
+      "sounds": [
+        "custom/shotgun_pumping" ]
+    },
+    "shotgun_shoot": {
+      "sounds": [
+        "custom/shotgun_shoot" ]
+    },
+    "deagle_shoot": {
+      "sounds": [
+        "custom/deagle_shoot" ]
+    },
+    "deagle_reloading": {
+      "sounds": [
+        "custom/deagle_reloading" ]
+    }
+    
+
+  }
