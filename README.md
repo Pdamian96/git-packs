@@ -14,3 +14,4 @@ gun-datapack: (Only 1.21)
  - Made to be as lag free as possible
  - Multiplayer Friendly
  - Grenades are still buggy
+ - To get guns do: /function guns:give_guns
