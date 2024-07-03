@@ -7,6 +7,9 @@ Balls: (Version 1.20.4) (Breaks in 1.21)
  - Netergold cant be broken with fortune and drops 1-2 nuggets instead of 2-6
  - Newly Crafted Netherite doesnt have knockback reesistance.
 
+Gold-Nerf: (Version 1.20.4) (Breaks in 1.21)
+ - Same functionality as the "balls" Datapack but removes the netherite Knock resistance nerf
+
 gun-datapack: (Only 1.21)
  - Resourcepack is in the repo too called "gun-resourcepack" (very importat)
  - Adds 5 different types of guns and 3 Grenades (at the moment)
@@ -15,3 +18,4 @@ gun-datapack: (Only 1.21)
  - Multiplayer Friendly
  - Grenades are still buggy
  - To get guns do: /function guns:give_guns
+
