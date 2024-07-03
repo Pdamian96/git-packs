@@ -8,7 +8,7 @@ Balls: (Version 1.20.4) (Breaks in 1.21)
  - Newly Crafted Netherite doesnt have knockback reesistance.
 
 Gold-Nerf: (Version 1.20.4) (Breaks in 1.21)
- - Same functionality as the "balls" Datapack but removes the netherite Knock resistance nerf
+ - Same functionality as the "balls" Datapack but removes the netherite knockback resistance nerf
 
 gun-datapack: (Only 1.21)
  - Resourcepack is in the repo too called "gun-resourcepack" (very importat)
