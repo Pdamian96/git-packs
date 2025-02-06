@@ -4,7 +4,7 @@ I dont usually comment stuff unless needed, and I wont update this extra folder 
 Balls: (Version 1.20.4) (Breaks in 1.21)
  - Datapack for towny server
  - Nethergold gets smelted to Gold nuggets
- - Netergold cant be broken with fortune and drops 1-2 nuggets instead of 2-6
+ - Nethergold cant be broken with fortune and drops 1-2 nuggets instead of 2-6
  - Newly Crafted Netherite doesnt have knockback resistance.
 
 Gold-Nerf: (Version 1.20.4) (Breaks in 1.21)
